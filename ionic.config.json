@@ -1,0 +1,7 @@
+{
+  "name": "safeBand",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
